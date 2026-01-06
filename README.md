@@ -1,4 +1,3 @@
-
 # Portfólio Pessoal — AJ Feitosa
 
 Bem-vindo ao meu portfólio! Este projeto foi desenvolvido para apresentar minha trajetória como aspirante a Desenvolvedor Full Stack, meus projetos, habilidades e formas de contato.
@@ -34,4 +33,4 @@ Sou aspirante a Desenvolvedor Full Stack pela Alpha EdTech, movido por curiosida
 
 ---
 
-## Feito por AJ Feitosa
+Feito com 💙 por AJ Feitosa
